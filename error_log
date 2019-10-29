@@ -1,0 +1,15 @@
+[20-May-2019 11:08:43 Asia/Jakarta] PHP Fatal error:  Class 'CI_Controller' not found in /home/greenbike/public_html/dev/system/core/CodeIgniter.php on line 366
+[20-May-2019 11:08:44 Asia/Jakarta] PHP Fatal error:  Class 'CI_Controller' not found in /home/greenbike/public_html/dev/system/core/CodeIgniter.php on line 366
+[20-May-2019 11:48:08 Asia/Jakarta] PHP Fatal error:  Class 'CI_Controller' not found in /home/greenbike/public_html/dev/system/core/CodeIgniter.php on line 366
+[20-May-2019 11:48:08 Asia/Jakarta] PHP Fatal error:  Class 'CI_Controller' not found in /home/greenbike/public_html/dev/system/core/CodeIgniter.php on line 366
+[11-Jul-2019 21:34:42 Asia/Jakarta] PHP Fatal error:  Class 'CI_Controller' not found in /home/greenbike/public_html/ubudserendipity/system/core/CodeIgniter.php on line 366
+[11-Jul-2019 22:05:40 Asia/Jakarta] PHP Fatal error:  Class 'CI_Controller' not found in /home/greenbike/public_html/ubudserendipity/system/core/CodeIgniter.php on line 366
+[11-Jul-2019 22:05:41 Asia/Jakarta] PHP Fatal error:  Class 'CI_Controller' not found in /home/greenbike/public_html/ubudserendipity/system/core/CodeIgniter.php on line 366
+[11-Jul-2019 22:47:47 Asia/Jakarta] PHP Fatal error:  Class 'CI_Controller' not found in /home/greenbike/public_html/ubudserendipity/system/core/CodeIgniter.php on line 366
+[11-Jul-2019 22:47:47 Asia/Jakarta] PHP Fatal error:  Class 'CI_Controller' not found in /home/greenbike/public_html/ubudserendipity/system/core/CodeIgniter.php on line 366
+[11-Jul-2019 22:49:11 Asia/Jakarta] PHP Fatal error:  Class 'CI_Controller' not found in /home/greenbike/public_html/ubudserendipity/system/core/CodeIgniter.php on line 366
+[11-Jul-2019 22:49:12 Asia/Jakarta] PHP Fatal error:  Class 'CI_Controller' not found in /home/greenbike/public_html/ubudserendipity/system/core/CodeIgniter.php on line 366
+[11-Jul-2019 23:39:44 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '"<pre>"' (T_CONSTANT_ENCAPSED_STRING) in /home/greenbike/public_html/ubudserendipity/application/views/frontpage/book_step1_view.php on line 1
+[11-Jul-2019 23:40:02 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '"<pre>"' (T_CONSTANT_ENCAPSED_STRING) in /home/greenbike/public_html/ubudserendipity/application/views/frontpage/book_step1_view.php on line 1
+[12-Jul-2019 01:47:06 Asia/Jakarta] PHP Fatal error:  Call to undefined method Common::converttodate() in /home/greenbike/public_html/ubudserendipity/application/controllers/Book.php on line 209
+[12-Jul-2019 01:47:30 Asia/Jakarta] PHP Fatal error:  Call to undefined method Common::converttodate() in /home/greenbike/public_html/ubudserendipity/application/controllers/Book.php on line 209

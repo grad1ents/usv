@@ -1,0 +1,403 @@
+[
+	{
+		"id": "1",
+		"name": "Puri Bougenville",
+		"img_background": "bougenville/bougenville-09.jpg",
+		"banner": "banner/bougenville-banner.jpg",
+		"short_desc": "A large mutifunction garden bridges the villa to the vast rice field. Guests could enjoy outdoor yoga or meditation, a romantic riverside dinner under a jackfruit tree, partying around a fire pit, hold a small blessing or wedding.",
+		"category": "Double Bed",
+		"promo": "10% Off for Repeater",
+		"startprice": "235",
+		"link": "dode.jpg",
+		"activity": {
+					"1": {
+						"id": 1,
+						"name": "Cycling Tour",
+						"minimum": 1,
+						"price": {
+							"1": {
+								"type": "Infant",
+								"price": 100000
+							},
+							"2": {
+								"type": "Child",
+								"price": 400000
+							},
+							"3": {
+								"type": "Adult",
+								"price": 550000
+							}
+						}
+					},
+					"2": {
+						"id": 2,
+						"name": "Sunrise Trekking",
+						"minimum": 4,
+						"price": {
+							"1": {
+								"type": "Infant",
+								"price": 100000
+							},
+							"2": {
+								"type": "Child",
+								"price": 400000
+							},
+							"3": {
+								"type": "Adult",
+								"price": 550000
+							}
+						}
+					}
+		},
+		"photoroom": {
+					"1": {
+						"id": 1,
+						"title": "A Bougenville Room 1",
+						"photo": "room/bougenville/bougenville-01.jpg",
+						"thumb": "room/bougenville/thumb-01.jpg"
+
+					},
+					"2": {
+						"id": 2,
+						"title": "A Bougenville Room 2",
+						"photo": "room/bougenville/bougenville-02.jpg",
+						"thumb": "room/bougenville/thumb-02.jpg"
+
+					},
+					"3": {
+						"id": 3,
+						"title": "A Bougenville Room 3",
+						"photo": "room/bougenville/bougenville-03.jpg",
+						"thumb": "room/bougenville/thumb-03.jpg"
+
+					},
+					"4": {
+						"id": 4,
+						"title": "A Bougenville Room 4",
+						"photo": "room/bougenville/bougenville-04.jpg",
+						"thumb": "room/bougenville/thumb-04.jpg"
+
+					},
+					"5": {
+						"id": 5,
+						"title": "A Bougenville Room 5",
+						"photo": "room/bougenville/bougenville-05.jpg",
+						"thumb": "room/bougenville/thumb-05.jpg"
+
+					},
+					"6": {
+						"id": 6,
+						"title": "A Bougenville Room 6",
+						"photo": "room/bougenville/bougenville-06.jpg",
+						"thumb": "room/bougenville/thumb-06.jpg"
+
+					},
+					"7": {
+						"id": 7,
+						"title": "A Bougenville Room 7",
+						"photo": "room/bougenville/bougenville-07.jpg",
+						"thumb": "room/bougenville/thumb-07.jpg"
+
+					},
+					"8": {
+						"id": 8,
+						"title": "A Bougenville Room 8",
+						"photo": "room/bougenville/bougenville-08.jpg",
+						"thumb": "room/bougenville/thumb-08.jpg"
+
+					},
+					"9": {
+						"id": 9,
+						"title": "A Bougenville Room 9",
+						"photo": "room/bougenville/bougenville-09.jpg",
+						"thumb": "room/bougenville/thumb-09.jpg"
+
+					},
+					"10": {
+						"id": 10,
+						"title": "A Bougenville Room 10",
+						"photo": "room/bougenville/bougenville-10.jpg",
+						"thumb": "room/bougenville/thumb-10.jpg"
+
+					},
+					"11": {
+						"id": 11,
+						"title": "A Bougenville Room 11",
+						"photo": "room/bougenville/bougenville-11.jpg",
+						"thumb": "room/bougenville/thumb-11.jpg"
+
+					},
+					"12": {
+						"id": 12,
+						"title": "A Bougenville Room 12",
+						"photo": "room/bougenville/bougenville-12.jpg",
+						"thumb": "room/bougenville/thumb-12.jpg"
+
+					}
+					
+		}
+	},
+	{
+		"id": "2",
+		"name": "Puri Jasmine",
+		"img_background": "jasmine/1.jpg",		
+		"banner": "banner/jasmine-banner.jpg",
+		"short_desc": "Peaceful boutique villa that offers tranquility for a family or a honeymooner couple. Very private with large swimming pool to cool down after a busy day at Ubud. Guests could enjoy the well cared garden and balinese open living room ~ bale~ with functional kitchen and dining area.",
+		"category": "Double Bed",
+		"promo": "10% Off for Repeater",
+		"startprice": "210",
+		"link": "dode.jpg",
+		"activity": {
+					"1": {
+						"id": 1,
+						"name": "Cycling Tour",
+						"minimum": 1,
+						"price": {
+							"1": {
+								"type": "Infant",
+								"price": 100000
+							},
+							"2": {
+								"type": "Child",
+								"price": 400000
+							},
+							"3": {
+								"type": "Adult",
+								"price": 550000
+							}
+						}
+					},
+					"2": {
+						"id": 2,
+						"name": "Sunrise Trekking",
+						"minimum": 4,
+						"price": {
+							"1": {
+								"type": "Infant",
+								"price": 100000
+							},
+							"2": {
+								"type": "Child",
+								"price": 400000
+							},
+							"3": {
+								"type": "Adult",
+								"price": 550000
+							}
+						}
+					}
+		},
+		"photoroom": {
+					"1": {
+						"id": 1,
+						"title": "A Jasmine Room 1",
+						"photo": "room/jasmine/1.jpg",
+						"thumb": "room/jasmine/thumb-01.jpg"
+
+					},
+					"2": {
+						"id": 2,
+						"title": "A Jasmine Room 2",
+						"photo": "room/jasmine/2.jpg",
+						"thumb": "room/jasmine/thumb-02.jpg"
+
+					},
+					"3": {
+						"id": 3,
+						"title": "A Jasmine Room 3",
+						"photo": "room/jasmine/3.jpg",
+						"thumb": "room/jasmine/thumb-03.jpg"
+
+					},
+					"4": {
+						"id": 4,
+						"title": "A Jasmine Room 4",
+						"photo": "room/jasmine/4.jpg",
+						"thumb": "room/jasmine/thumb-03.jpg"
+
+					},
+					"5": {
+						"id": 5,
+						"title": "A Jasmine Room 5",
+						"photo": "room/jasmine/5.jpg",
+						"thumb": "room/jasmine/thumb-05.jpg"
+
+					},
+					"6": {
+						"id": 6,
+						"title": "A Jasmine Room 6",
+						"photo": "room/jasmine/6.jpg",
+						"thumb": "room/jasmine/thumb-06.jpg"
+
+					},
+					"7": {
+						"id": 7,
+						"title": "A Jasmine Room 7",
+						"photo": "room/jasmine/7.jpg",
+						"thumb": "room/jasmine/thumb-07.jpg"
+
+					},
+					"8": {
+						"id": 8,
+						"title": "A Jasmine Room 8",
+						"photo": "room/jasmine/8.jpg",
+						"thumb": "room/jasmine/thumb-08.jpg"
+
+					},
+					"9": {
+						"id": 9,
+						"title": "A Jasmine Room 9",
+						"photo": "room/jasmine/9.jpg",
+						"thumb": "room/jasmine/thumb-09.jpg"
+
+					},
+					"10": {
+						"id": 10,
+						"title": "A Jasmine Room 10",
+						"photo": "room/jasmine/10.jpg",
+						"thumb": "room/jasmine/thumb-10.jpg"
+
+					}
+					
+		}
+	},	
+	{
+		"id": "3",
+		"name": "Puri Lotus",
+		"img_background": "lotus/lotus-01.jpg",		
+		"banner": "banner/lotus-banner.jpg",
+		"short_desc": "Peaceful boutique villa that offers tranquility for a family or a honeymooner couple. Very private with large swimming pool to cool down after a busy day at Ubud. Guests could enjoy the well cared garden and balinese open living room ~ bale~ with functional kitchen and dining area.",
+		"category": "Double Bed",
+		"promo": "10% Off for Repeater",
+		"startprice": "210",
+		"link": "dode.jpg",
+		"activity": {
+					"1": {
+						"id": 1,
+						"name": "Cycling Tour",
+						"minimum": 1,
+						"price": {
+							"1": {
+								"type": "Infant",
+								"price": 100000
+							},
+							"2": {
+								"type": "Child",
+								"price": 400000
+							},
+							"3": {
+								"type": "Adult",
+								"price": 550000
+							}
+						}
+					},
+					"2": {
+						"id": 2,
+						"name": "Sunrise Trekking",
+						"minimum": 4,
+						"price": {
+							"1": {
+								"type": "Infant",
+								"price": 100000
+							},
+							"2": {
+								"type": "Child",
+								"price": 400000
+							},
+							"3": {
+								"type": "Adult",
+								"price": 550000
+							}
+						}
+					}
+		},
+		"photoroom": {
+					"1": {
+						"id": 1,
+						"title": "A Lotus Room 1",
+						"photo": "room/lotus/lotus-01.jpg",
+						"thumb": "room/lotus/thumb-01.jpg"
+
+					},
+					"2": {
+						"id": 2,
+						"title": "A Lotus Room 2",
+						"photo": "room/lotus/lotus-02.jpg",
+						"thumb": "room/lotus/thumb-02.jpg"
+
+					},
+					"3": {
+						"id": 3,
+						"title": "A Lotus Room 3",
+						"photo": "room/lotus/lotus-03.jpg",
+						"thumb": "room/lotus/thumb-03.jpg"
+
+					},
+					"4": {
+						"id": 4,
+						"title": "A Lotus Room 4",
+						"photo": "room/lotus/lotus-04.jpg",
+						"thumb": "room/lotus/thumb-04.jpg"
+
+					},
+					"5": {
+						"id": 5,
+						"title": "A Lotus Room 5",
+						"photo": "room/lotus/lotus-05.jpg",
+						"thumb": "room/lotus/thumb-05.jpg"
+
+					},
+					"6": {
+						"id": 6,
+						"title": "A Lotus Room 6",
+						"photo": "room/lotus/lotus-06.jpg",
+						"thumb": "room/lotus/thumb-06.jpg"
+
+					},
+					"7": {
+						"id": 7,
+						"title": "A Lotus Room 7",
+						"photo": "room/lotus/lotus-07.jpg",
+						"thumb": "room/lotus/thumb-07.jpg"
+
+					},
+					"8": {
+						"id": 8,
+						"title": "A Lotus Room 8",
+						"photo": "room/lotus/lotus-08.jpg",
+						"thumb": "room/lotus/thumb-08.jpg"
+
+					},
+					"9": {
+						"id": 9,
+						"title": "A Lotus Room 9",
+						"photo": "room/lotus/lotus-09.jpg",
+						"thumb": "room/lotus/thumb-09.jpg"
+
+					},
+					"10": {
+						"id": 10,
+						"title": "A Lotus Room 10",
+						"photo": "room/lotus/lotus-10.jpg",
+						"thumb": "room/lotus/thumb-10.jpg"
+
+					},
+					"11": {
+						"id": 11,
+						"title": "A Lotus Room 11",
+						"photo": "room/lotus/lotus-11.jpg",
+						"thumb": "room/lotus/thumb-11.jpg"
+
+					},
+					"12": {
+						"id": 12,
+						"title": "A Lotus Room 12",
+						"photo": "room/lotus/lotus-12.jpg",
+						"thumb": "room/lotus/thumb-12.jpg"
+
+					}
+					
+		}
+
+	}
+]
